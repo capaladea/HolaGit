@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello World! (en ingles)\n");
-    printf("Today es Monday! (en ingles)\n");
+    printf("Today is Monday (en ingles)\n");
     return 0;
 }
