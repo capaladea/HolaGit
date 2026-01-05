@@ -2,12 +2,10 @@
 
 int main() {
     printf("Hello World! (en ingles)\n");
-<<<<<<< HEAD
 
-
-    printf(\n"Thanks por the atension (en ingles)\n");
-=======
     printf("Today is Monday (en ingles)\n");
->>>>>>> dia
+
+     printf(\n"Thanks por the atension (en ingles)\n");
+
     return 0;
 }
